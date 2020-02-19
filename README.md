@@ -860,7 +860,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
-
+## Others - added by tuanbass
+* [Gitops methodology](https://www.gitops.tech/) 
 ## Donation
 
 [Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat his cat a cake?](https://paypal.me/binhnguyennus) :cake:
